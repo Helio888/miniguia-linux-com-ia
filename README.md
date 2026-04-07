@@ -19,6 +19,10 @@ As fontes foram selecionadas com foco em aprendizado progressivo (teoria + prát
 - Apostila Linux IME USP → base teórica
 - Guia 500 comandos Linux → prática no terminal
 - Material UNESP → conceitos de sistemas operacionais
+--
+- https://www.linux.ime.usp.br/~albasalo/Apostila/apostila.pdf
+- https://www.linuxpro.com.br/dl/guia_500_comandos_Linux.pdf
+- https://www.fct.unesp.br/Home/Departamentos/Cartografia/uel---sistemas_operacionais_sistemas_linux.pdf 
 
 ### Vídeos:
 Conteúdos voltados para iniciantes com explicação prática do uso do Linux.
@@ -27,6 +31,10 @@ Conteúdos voltados para iniciantes com explicação prática do uso do Linux.
 - Conteúdo confiável
 - Linguagem acessível
 - Aplicação prática
+--
+- https://www.youtube.com/watch?v=R_8l3xj3QEg&list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV&index=2 
+- https://www.youtube.com/watch?v=qs_NZXmVUr0&list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV&index=3 
+- https://www.youtube.com/watch?v=-cR-0Ggi3B4&list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV&index=4 
 
 ---
 
