@@ -34,7 +34,20 @@ Conteúdos voltados para iniciantes com explicação prática do uso do Linux.
   
 - https://www.youtube.com/watch?v=R_8l3xj3QEg&list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV&index=2 
 - https://www.youtube.com/watch?v=qs_NZXmVUr0&list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV&index=3 
-- https://www.youtube.com/watch?v=-cR-0Ggi3B4&list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV&index=4 
+- https://www.youtube.com/watch?v=-cR-0Ggi3B4&list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV&index=4
+  
+---
+
+### 📌 Aplicação do Linux
+
+O Linux é amplamente utilizado em:
+
+- Servidores web
+- Desenvolvimento de software
+- Segurança da informação (cibersegurança)
+- Computação em nuvem
+
+Seu domínio é essencial para profissionais de tecnologia.
 
 ---
 
@@ -130,7 +143,14 @@ O terminal permite interação direta com o sistema por meio de comandos, sendo 
 
 ## 🚀 Conclusão
 
-Este projeto demonstrou como a Inteligência Artificial pode ser utilizada como ferramenta de aprendizagem ativa, permitindo transformar conteúdos complexos em conhecimento estruturado e aplicável.
+Este projeto demonstrou na prática como a Inteligência Artificial pode ser utilizada como ferramenta de aprendizagem ativa.
+
+Além disso, foi possível desenvolver habilidades importantes como:
+- Engenharia de prompts
+- Organização de conhecimento
+- Pensamento crítico
+
+O uso do Linux aliado à IA fortalece a base para atuação na área de tecnologia, especialmente em infraestrutura e cibersegurança.
 
 ---
 
